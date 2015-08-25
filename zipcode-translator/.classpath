@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/gson-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/netty-3.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/operadriver-v0.18.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/operalaunchers-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/selenium-java-2.25.0-20120827.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/servlet-api-2.5-6.1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/sonar-ant-task-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/webbit-0.4.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Application/zipcode-translator/lib/jargs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
